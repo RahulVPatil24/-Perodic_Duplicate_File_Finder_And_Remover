@@ -1,4 +1,4 @@
-### Perodic File Remover with Auto Scheduled Log Report Facility.
+### Perodic Duplicate File Remover with Auto Scheduled Log Report Facility.
 - This application developed in Python
 - This project automate Duplicate Files removing activity
 - In This project I create log files with the current time and store information about all deleted files as its name and path
