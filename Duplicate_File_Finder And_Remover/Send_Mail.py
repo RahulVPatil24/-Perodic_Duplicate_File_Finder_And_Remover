@@ -7,7 +7,7 @@ def Send_Mail(attach):
     msg['Subject'] = 'Duplicate removed logs'
     msg['From'] = ''#Enter Your Mail
     msg['To'] = ''#Enter Receiver Mail
-    msg.set_content('You will get an attachments soon')
+    msg.set_content('Check The Logs In The Given Attachement')
 
     with open(attach,"rb") as fd:
         file_data = fd.read()
