@@ -1,0 +1,3 @@
+C:\WINDOWS\system32\notepad.exe
+C:\Program Files\VeraCrypt\VeraCrypt.exe
+C:\Program Files\Mozilla Firefox\firefox.exe
